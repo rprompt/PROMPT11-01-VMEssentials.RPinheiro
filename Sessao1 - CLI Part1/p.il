@@ -115,6 +115,21 @@
     IL_002a:  ret
   } // end of method Ponto::Distance
 
+
+  .method public hidebysig instance int32 
+          CompareTo(class Sessao1.Ponto p1) cil managed
+  {
+
+    .maxstack  2
+
+    ldarg.0
+    ldarg.1
+    call	instance int32 Sessao1.Ponto::Distance(class Sessao1.Ponto)
+    ret
+     } // end of method Ponto::CompareTo
+
+
+
   .method public hidebysig virtual instance string 
           ToString() cil managed
   {

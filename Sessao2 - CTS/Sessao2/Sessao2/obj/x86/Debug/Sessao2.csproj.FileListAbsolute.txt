@@ -1,0 +1,5 @@
+c:\users\rui pinheiro\documents\visual studio 2010\Projects\Sessao2\Sessao2\bin\Debug\Sessao2.exe
+c:\users\rui pinheiro\documents\visual studio 2010\Projects\Sessao2\Sessao2\bin\Debug\Sessao2.pdb
+c:\users\rui pinheiro\documents\visual studio 2010\Projects\Sessao2\Sessao2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\rui pinheiro\documents\visual studio 2010\Projects\Sessao2\Sessao2\obj\x86\Debug\Sessao2.exe
+c:\users\rui pinheiro\documents\visual studio 2010\Projects\Sessao2\Sessao2\obj\x86\Debug\Sessao2.pdb

@@ -1,0 +1,5 @@
+D:\Prompt\Exercicios\ExercicioTeste\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Prompt\Exercicios\ExercicioTeste\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Prompt\Exercicios\ExercicioTeste\ConsoleApp1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Prompt\Exercicios\ExercicioTeste\ConsoleApp1\obj\x86\Debug\ConsoleApp1.exe
+D:\Prompt\Exercicios\ExercicioTeste\ConsoleApp1\obj\x86\Debug\ConsoleApp1.pdb

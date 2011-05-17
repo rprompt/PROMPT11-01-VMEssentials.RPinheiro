@@ -1,0 +1,5 @@
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Sessao3 - CTS II\Sessao3\Sessao3\bin\Debug\Sessao3.exe
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Sessao3 - CTS II\Sessao3\Sessao3\bin\Debug\Sessao3.pdb
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Sessao3 - CTS II\Sessao3\Sessao3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Sessao3 - CTS II\Sessao3\Sessao3\obj\x86\Debug\Sessao3.exe
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Sessao3 - CTS II\Sessao3\Sessao3\obj\x86\Debug\Sessao3.pdb

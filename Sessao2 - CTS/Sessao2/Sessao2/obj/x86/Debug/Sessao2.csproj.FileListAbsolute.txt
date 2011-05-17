@@ -3,3 +3,8 @@ c:\users\rui pinheiro\documents\visual studio 2010\Projects\Sessao2\Sessao2\bin\
 c:\users\rui pinheiro\documents\visual studio 2010\Projects\Sessao2\Sessao2\obj\x86\Debug\ResolveAssemblyReference.cache
 c:\users\rui pinheiro\documents\visual studio 2010\Projects\Sessao2\Sessao2\obj\x86\Debug\Sessao2.exe
 c:\users\rui pinheiro\documents\visual studio 2010\Projects\Sessao2\Sessao2\obj\x86\Debug\Sessao2.pdb
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Sessao2 - CTS\Sessao2\Sessao2\bin\Debug\Sessao2.exe
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Sessao2 - CTS\Sessao2\Sessao2\bin\Debug\Sessao2.pdb
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Sessao2 - CTS\Sessao2\Sessao2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Sessao2 - CTS\Sessao2\Sessao2\obj\x86\Debug\Sessao2.exe
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Sessao2 - CTS\Sessao2\Sessao2\obj\x86\Debug\Sessao2.pdb

@@ -1,0 +1,5 @@
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Exercicios\ExercicioTeste\ConsoleApplication6 - TypeBrowser\bin\Debug\ConsoleApplication6 - TypeBrowser.exe
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Exercicios\ExercicioTeste\ConsoleApplication6 - TypeBrowser\bin\Debug\ConsoleApplication6 - TypeBrowser.pdb
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Exercicios\ExercicioTeste\ConsoleApplication6 - TypeBrowser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Exercicios\ExercicioTeste\ConsoleApplication6 - TypeBrowser\obj\x86\Debug\ConsoleApplication6 - TypeBrowser.exe
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Exercicios\ExercicioTeste\ConsoleApplication6 - TypeBrowser\obj\x86\Debug\ConsoleApplication6 - TypeBrowser.pdb

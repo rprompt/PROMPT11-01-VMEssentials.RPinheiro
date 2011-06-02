@@ -1,0 +1,349 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="23" />
+      <Item value="interface" priority="0" />
+      <Item value="bool" priority="2" />
+      <Item value="void" priority="10" />
+      <Item value="IFilterPerson`0" priority="4" />
+      <Item value="class" priority="2" />
+      <Item value="delegate" priority="0" />
+      <Item value="FilterPerson`0" priority="3" />
+      <Item value="ParallelEnumerable`0" priority="1" />
+      <Item value="p" priority="10" />
+      <Item value="Student`0" priority="11" />
+      <Item value="foreach" priority="7" />
+      <Item value="in" priority="1" />
+      <Item value="alunos" priority="2" />
+      <Item value="if" priority="18" />
+      <Item value="fp" priority="0" />
+      <Item value="s" priority="6" />
+      <Item value="Array`0" priority="2" />
+      <Item value="NewsStyleUriParser`0" priority="0" />
+      <Item value="getResultFilter" priority="1" />
+      <Item value="Length" priority="8" />
+      <Item value="int" priority="10" />
+      <Item value="addStudent`0" priority="0" />
+      <Item value="inx" priority="5" />
+      <Item value="result" priority="2" />
+      <Item value="result1" priority="2" />
+      <Item value="return" priority="8" />
+      <Item value="Console`0" priority="4" />
+      <Item value="string" priority="40" />
+      <Item value="word" priority="3" />
+      <Item value="null" priority="3" />
+      <Item value="else" priority="5" />
+      <Item value="i" priority="4" />
+      <Item value="t1" priority="4" />
+      <Item value="getFilterStudent`0" priority="0" />
+      <Item value="new" priority="7" />
+      <Item value="Student" priority="0" />
+      <Item value="ShowAluno`0" priority="0" />
+      <Item value="event" priority="1" />
+      <Item value="EventHandler" priority="0" />
+      <Item value="EventArgs`0" priority="1" />
+      <Item value="private" priority="3" />
+      <Item value="MsgArgs`0" priority="5" />
+      <Item value="Teacher`0" priority="2" />
+      <Item value="Msg" priority="0" />
+      <Item value="this" priority="1" />
+      <Item value="MsgArgs" priority="0" />
+      <Item value="txt" priority="3" />
+      <Item value="object" priority="3" />
+      <Item value="msgArgs" priority="0" />
+      <Item value="msg" priority="1" />
+      <Item value="Show`0" priority="0" />
+      <Item value="MostraS`0" priority="0" />
+      <Item value="teacher" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="IO" priority="0" />
+      <Item value="BrowseType`0" priority="1" />
+      <Item value="TextWriter`0" priority="13" />
+      <Item value="tw" priority="12" />
+      <Item value="ns" priority="0" />
+      <Item value="ntype" priority="4" />
+      <Item value="Type`0" priority="12" />
+      <Item value="typeof" priority="7" />
+      <Item value="namet" priority="0" />
+      <Item value="tipo" priority="13" />
+      <Item value="Microsoft" priority="0" />
+      <Item value="mi" priority="0" />
+      <Item value="minfo" priority="1" />
+      <Item value="m" priority="7" />
+      <Item value="ix" priority="1" />
+      <Item value="IFormatProvider`0" priority="1" />
+      <Item value="false" priority="5" />
+      <Item value="SByte`0" priority="0" />
+      <Item value="true" priority="1" />
+      <Item value="ConstructorInfo`0" priority="0" />
+      <Item value="PropertyInfo`0" priority="0" />
+      <Item value="ParameterInfo`0" priority="1" />
+      <Item value="pminfo" priority="0" />
+      <Item value="tw1" priority="0" />
+      <Item value="WriteMethods`0" priority="0" />
+      <Item value="String`0" priority="0" />
+      <Item value="AssemblyKeyNameAttribute`0" priority="1" />
+      <Item value="static" priority="9" />
+      <Item value="c" priority="5" />
+      <Item value="FieldInfo`0" priority="0" />
+      <Item value="WriteFields`0" priority="0" />
+      <Item value="finfo" priority="0" />
+      <Item value="f" priority="0" />
+      <Item value="EventInfo`0" priority="0" />
+      <Item value="EventHandler`0" priority="0" />
+      <Item value="h1" priority="4" />
+      <Item value="h1txt" priority="0" />
+      <Item value="AssemblyLoadEventHandler`0" priority="1" />
+      <Item value="assb" priority="1" />
+      <Item value="Assembly`0" priority="9" />
+      <Item value="ass" priority="7" />
+      <Item value="h1T" priority="0" />
+      <Item value="a" priority="1" />
+      <Item value="aT" priority="0" />
+      <Item value="HttpStyleUriParser`0" priority="1" />
+      <Item value="const" priority="0" />
+      <Item value="HttpListener" priority="0" />
+      <Item value="HttpListener`0" priority="1" />
+      <Item value="for" priority="3" />
+      <Item value="System" priority="0" />
+      <Item value="Net" priority="0" />
+      <Item value="hc" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="StreamWriter`0" priority="0" />
+      <Item value="url" priority="3" />
+      <Item value="_tw" priority="1" />
+      <Item value="WriteLine`0" priority="0" />
+      <Item value="t" priority="3" />
+      <Item value="Program`0" priority="1" />
+      <Item value="LastIndexOf`0" priority="0" />
+      <Item value="s1" priority="1" />
+      <Item value="args" priority="3" />
+      <Item value="EndOfStreamException`0" priority="0" />
+      <Item value="Attribute`0" priority="1" />
+      <Item value="value" priority="0" />
+      <Item value="UrlAttribute`0" priority="8" />
+      <Item value="Url" priority="2" />
+      <Item value="urlValue" priority="2" />
+      <Item value="args1" priority="11" />
+      <Item value="u" priority="1" />
+      <Item value="at" priority="4" />
+      <Item value="ua" priority="2" />
+      <Item value="ua1" priority="3" />
+      <Item value="Int16`0" priority="1" />
+      <Item value="CompareString`0" priority="1" />
+      <Item value="_surl" priority="3" />
+      <Item value="_sarg" priority="2" />
+      <Item value="out" priority="1" />
+      <Item value="AttributeUsage" priority="0" />
+      <Item value="AttributeTargets`0" priority="0" />
+      <Item value="Object`0" priority="0" />
+      <Item value="FormatException`0" priority="0" />
+      <Item value="PREFIX" priority="0" />
+      <Item value="argm" priority="2" />
+      <Item value="continue" priority="2" />
+      <Item value="sarg" priority="0" />
+      <Item value="ic" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Array">
+      <Item value="Copy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="4" />
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConsoleApplication5___School.Teacher">
+      <Item value="getFilterStudent`0" priority="0" />
+      <Item value="Msg" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConsoleApplication5___School.Person">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="1" />
+      <Item value="Substring`0" priority="3" />
+      <Item value="LastIndexOf`0" priority="1" />
+      <Item value="Split`0" priority="1" />
+      <Item value="Length" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConsoleApplication5___School.Student">
+      <Item value="Show`0" priority="1" />
+      <Item value="Name" priority="0" />
+      <Item value="ReceiveMsg`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConsoleApplication5___School.MsgArgs">
+      <Item value="Equals`0" priority="0" />
+      <Item value="Msg" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextWriter">
+      <Item value="WriteLine`0" priority="1" />
+      <Item value="Write`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Type">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Name" priority="5" />
+      <Item value="FullName" priority="4" />
+      <Item value="GetMethods`0" priority="0" />
+      <Item value="GetConstructors`0" priority="0" />
+      <Item value="GetProperties`0" priority="0" />
+      <Item value="GetFields`0" priority="1" />
+      <Item value="AssemblyQualifiedName" priority="0" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="IsDefined`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MethodInfo">
+      <Item value="Name" priority="0" />
+      <Item value="IsStatic" priority="0" />
+      <Item value="ReturnParameter" priority="0" />
+      <Item value="GetParameters`0" priority="0" />
+      <Item value="GetCustomAttributes`0" priority="1" />
+      <Item value="Invoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.ParameterInfo">
+      <Item value="GetType`0" priority="1" />
+      <Item value="Name" priority="1" />
+      <Item value="ParameterType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.PropertyInfo">
+      <Item value="PropertyType" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ConsoleApplication6___TypeBrowser.BrowseType">
+      <Item value="Browse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.FieldInfo">
+      <Item value="FieldType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.EventInfo">
+      <Item value="EventHandlerType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="Load`0" priority="0" />
+      <Item value="GetAssembly`0" priority="0" />
+      <Item value="GetExecutingAssembly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Assembly">
+      <Item value="FullName" priority="0" />
+      <Item value="GetName`0" priority="2" />
+      <Item value="Location" priority="0" />
+      <Item value="GetTypes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.AssemblyName">
+      <Item value="Name" priority="1" />
+      <Item value="FullName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpListener">
+      <Item value="Prefixes" priority="0" />
+      <Item value="Start`0" priority="0" />
+      <Item value="GetContext`0" priority="0" />
+      <Item value="Stop`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpListenerPrefixCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpListenerContext">
+      <Item value="Request" priority="0" />
+      <Item value="Response" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpListenerRequest">
+      <Item value="RawUrl" priority="0" />
+      <Item value="Url" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpListenerResponse">
+      <Item value="OutputStream" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ConsoleApplication6___TypeBrowser.Program">
+      <Item value="PREFIX" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ConsoleApplication6___TypeBrowser.UrlAttribute">
+      <Item value="urlValue" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AttributeTargets">
+      <Item value="Method" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Uri">
+      <Item value="AbsolutePath" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8F3CB67A-CFEF-40A2-9BD7-3296B7B77BBA/f:ComparfeStudentbyName.cs" caret="322" fromTop="15" />
+      <File id="8F3CB67A-CFEF-40A2-9BD7-3296B7B77BBA/f:CompareStudentbyNumber.cs" caret="262" fromTop="12" />
+      <File id="A3B36FFD-E723-429A-8CBD-803A164C916B/f:Program.cs" caret="13559" fromTop="13" />
+      <File id="2E262836-0807-44C9-AD77-C58399FDAA4E/f:Program.cs" caret="5697" fromTop="13" />
+      <File id="085469F9-BAE3-495F-868A-D7B220FD251C/f:Program.cs" caret="332" fromTop="13" />
+      <File id="8F3CB67A-CFEF-40A2-9BD7-3296B7B77BBA/f:Person.cs" caret="246" fromTop="3" />
+      <File id="8F3CB67A-CFEF-40A2-9BD7-3296B7B77BBA/f:School.cs" caret="210" fromTop="10" />
+      <File id="8F3CB67A-CFEF-40A2-9BD7-3296B7B77BBA/f:Program.cs" caret="2995" fromTop="24" />
+      <File id="8F3CB67A-CFEF-40A2-9BD7-3296B7B77BBA/f:Student.cs" caret="880" fromTop="14" />
+      <File id="8F3CB67A-CFEF-40A2-9BD7-3296B7B77BBA/f:IShowable.cs" caret="187" fromTop="9" />
+      <File id="085469F9-BAE3-495F-868A-D7B220FD251C/f:Person.cs" caret="329" fromTop="13" />
+      <File id="8F3CB67A-CFEF-40A2-9BD7-3296B7B77BBA/f:Teacher.cs" caret="1754" fromTop="13" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:UrlDevAttribute.cs" caret="168" fromTop="7" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:UrlAttribute.cs" caret="330" fromTop="13" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseType.cs" caret="390" fromTop="13" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:CompareString.cs" caret="336" fromTop="5" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:Program.cs" caret="3972" fromTop="78" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAssembly.cs" caret="1426" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:Program.cs" caret="3389" fromTop="20" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:Program.cs" caret="3389" fromTop="19" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:Program.cs" caret="3389" fromTop="18" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:Program.cs" caret="3389" fromTop="17" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:UrlAttribute.cs" caret="261" fromTop="8" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:Program.cs" caret="1579" fromTop="8" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:Program.cs" caret="3389" fromTop="10" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:Program.cs" caret="3214" fromTop="20" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:Program.cs" caret="3281" fromTop="21" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:Program.cs" caret="3906" fromTop="22" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:CompareString.cs" caret="1043" fromTop="26" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:CompareString.cs" caret="174" fromTop="4" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:CompareString.cs" caret="1043" fromTop="16" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:CompareString.cs" caret="1043" fromTop="21" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:CompareString.cs" caret="1043" fromTop="13" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:CompareString.cs" caret="1084" fromTop="25" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:CompareString.cs" caret="1071" fromTop="24" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:CompareString.cs" caret="258" fromTop="14" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAssembly.cs" caret="195" fromTop="5" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:UrlDevAttribute.cs" caret="168" fromTop="7" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseType.cs" caret="195" fromTop="6" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:UrlAttribute.cs" caret="463" fromTop="18" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAssembly.cs" caret="288" fromTop="11" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseType.cs" caret="283" fromTop="11" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:Program.cs" caret="752" fromTop="10" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:CompareString.cs" caret="834" fromTop="16" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:Program.cs" caret="3216" fromTop="10" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:Program.cs" caret="3132" fromTop="20" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:Program.cs" caret="2712" fromTop="2" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:Program.cs" caret="1277" fromTop="6" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

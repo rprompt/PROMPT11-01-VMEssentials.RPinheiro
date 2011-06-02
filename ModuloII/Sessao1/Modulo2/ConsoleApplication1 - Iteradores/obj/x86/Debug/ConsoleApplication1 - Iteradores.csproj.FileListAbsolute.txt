@@ -1,0 +1,5 @@
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\ModuloII\Sessao1\Modulo2\ConsoleApplication1 - Iteradores\bin\Debug\ConsoleApplication1 - Iteradores.exe
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\ModuloII\Sessao1\Modulo2\ConsoleApplication1 - Iteradores\bin\Debug\ConsoleApplication1 - Iteradores.pdb
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\ModuloII\Sessao1\Modulo2\ConsoleApplication1 - Iteradores\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\ModuloII\Sessao1\Modulo2\ConsoleApplication1 - Iteradores\obj\x86\Debug\ConsoleApplication1 - Iteradores.exe
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\ModuloII\Sessao1\Modulo2\ConsoleApplication1 - Iteradores\obj\x86\Debug\ConsoleApplication1 - Iteradores.pdb

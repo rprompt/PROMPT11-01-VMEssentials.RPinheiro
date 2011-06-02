@@ -1,0 +1,5 @@
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Exercicios\ExercicioTeste\ConsoleApplication3 - Reflection\bin\Debug\ConsoleApplication2.exe
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Exercicios\ExercicioTeste\ConsoleApplication3 - Reflection\bin\Debug\ConsoleApplication2.pdb
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Exercicios\ExercicioTeste\ConsoleApplication3 - Reflection\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Exercicios\ExercicioTeste\ConsoleApplication3 - Reflection\obj\x86\Debug\ConsoleApplication2.exe
+D:\Prompt\PROMPT11\UC01\repos\PROMPT11-01-VMEssentials.RPinheiro\Exercicios\ExercicioTeste\ConsoleApplication3 - Reflection\obj\x86\Debug\ConsoleApplication2.pdb

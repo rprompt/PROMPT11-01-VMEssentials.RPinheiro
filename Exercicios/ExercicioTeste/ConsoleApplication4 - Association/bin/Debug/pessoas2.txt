@@ -1,0 +1,45 @@
+﻿7
+ConsoleApplication4.Person
+0
+ZÉ
+01-01-2005 00:00:00
+True
+ConsoleApplication4.Person
+2
+XICO
+01-01-2002 00:00:00
+False
+ConsoleApplication4.Teacher
+3
+MÁRIO
+01-01-2002 00:00:00
+False
+assistente
+ConsoleApplication4.Student
+4
+MANEL
+01-01-2003 00:00:00
+False
+11
+3
+ConsoleApplication4.Student
+5
+MANELITO
+01-01-2009 00:00:00
+False
+12
+3
+ConsoleApplication4.Student
+6
+MANO
+01-04-2009 00:00:00
+False
+13
+3
+ConsoleApplication4.Student
+7
+MIGUEL
+01-04-2000 00:00:00
+False
+14
+3

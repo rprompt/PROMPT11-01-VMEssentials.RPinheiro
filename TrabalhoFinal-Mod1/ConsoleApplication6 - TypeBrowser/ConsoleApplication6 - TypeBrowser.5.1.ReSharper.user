@@ -1,0 +1,83 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:UrlDevAttribute.cs" caret="0" fromTop="0" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:UrlAttribute.cs" caret="473" fromTop="15" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:CompareString.cs" caret="1023" fromTop="16" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:Program.cs" caret="3225" fromTop="20" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAssembly.cs" caret="1098" fromTop="3" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAllAssemblys.cs" caret="451" fromTop="13" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseType.cs" caret="266" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:CompareString.cs" caret="174" fromTop="10" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAllAssemblys.cs" caret="726" fromTop="21" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAllAssemblys.cs" caret="714" fromTop="10" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAllAssemblys.cs" caret="714" fromTop="1" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAllAssemblys.cs" caret="714" fromTop="13" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAllAssemblys.cs" caret="714" fromTop="15" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAllAssemblys.cs" caret="714" fromTop="16" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAllAssemblys.cs" caret="714" fromTop="23" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAllAssemblys.cs" caret="671" fromTop="14" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAllAssemblys.cs" caret="279" fromTop="7" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAllAssemblys.cs" caret="607" fromTop="17" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:CompareString.cs" caret="776" fromTop="12" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAssembly.cs" caret="913" fromTop="9" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAssembly.cs" caret="897" fromTop="9" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAssembly.cs" caret="1082" fromTop="11" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAllAssemblys.cs" caret="422" fromTop="14" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAssembly.cs" caret="229" fromTop="8" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAssembly.cs" caret="1408" fromTop="2" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAssembly.cs" caret="239" fromTop="3" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAssembly.cs" caret="403" fromTop="9" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAssembly.cs" caret="423" fromTop="11" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAssembly.cs" caret="1395" fromTop="13" />
+      <File id="2F28B79C-A6E5-45E7-8590-DB60BC067F57/f:BrowseAllAssemblys.cs" caret="672" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="h1T" priority="0" />
+      <Item value="ass" priority="1" />
+      <Item value="String`0" priority="0" />
+      <Item value="Assembly`0" priority="0" />
+      <Item value="DirectoryInfo`0" priority="0" />
+      <Item value="dirFile" priority="1" />
+      <Item value="Type`0" priority="0" />
+      <Item value="h0T" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="try" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ConsoleApplication6___TypeBrowser.BrowseAssembly">
+      <Item value="Browse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Assembly">
+      <Item value="GetType`0" priority="0" />
+      <Item value="GetName`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
